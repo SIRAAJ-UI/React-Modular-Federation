@@ -45,12 +45,12 @@ The exposed components are used in Host.
 # Test Coverage
     cd remoteApp\coverage
     index.html to view the code coverage report
-#Library
-1.In this application used Material UI Lirary (@mui/material)
-2.React-hook-form 
-3.zustand (State management)
-4.react-form-stepper
-5.Typescript
+# Library
+    1.In this application used Material UI Lirary (@mui/material)
+    2.React-hook-form 
+    3.zustand (State management)
+    4.react-form-stepper
+    5.Typescript
 
 # Packages - remoteApp
 
