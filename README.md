@@ -21,7 +21,7 @@ Then go to http://localhost:3001
     npm i
     npm start
 
-Then go to http://localhost:3001
+Then go to http://localhost:3000
 
 
 # How it works
