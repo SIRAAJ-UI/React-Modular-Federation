@@ -25,7 +25,7 @@ Then go to http://localhost:3001
 
 
 # How it works
-Host is the shell app which imports Remote1. Host is hosted on port 3001.
+Host is the shell app which imports Remote. Host is hosted on port 3001.
 
 Remote is hosted port 3001 and exposes 4 components follows below.
 
