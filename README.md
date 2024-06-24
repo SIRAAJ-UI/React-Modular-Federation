@@ -41,7 +41,10 @@ The exposed components are used in Host.
 # Unit Test coverage
     I have covered 1 component and one state management.
     npm test
-
+    
+# Test Coverage
+    cd remoteApp\coverage
+    index.html to view the code coverage report
 #Library
 1.In this application used Material UI Lirary (@mui/material)
 2.React-hook-form 
